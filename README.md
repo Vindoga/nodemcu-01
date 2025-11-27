@@ -27,3 +27,7 @@ void loop() {
 ```
 
 ## Vad är Arduino IDE?
+Det är mjukvaruprogrammet man använder för att skriva och ladda upp kod för NodeMCU. Programmet kommer med diverse fördelar såsom att det är enkelt att lära sig. I text editorn skriver man sin kod i C++ språk.
+Sen trycker man på compile/verify och då letar Arduino efter fel med koden och ger förslag på vad som borde justeras. Sen finns det ett stort bibliotek med färdigskriven kod redo att klistras in.
+
+## Mikroprocessor
