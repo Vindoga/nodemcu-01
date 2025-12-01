@@ -31,3 +31,4 @@ Det är mjukvaruprogrammet man använder för att skriva och ladda upp kod för 
 Sen trycker man på compile/verify och då letar Arduino efter fel med koden och ger förslag på vad som borde justeras. Sen finns det ett stort bibliotek med färdigskriven kod redo att klistras in.
 
 ## Mikroprocessor
+Vad är en mikroprocessor? Det är som en liten dator som består av CPU, interface, minne, I/O (port in och port ut). Allt detta finns samlat i ett kretskort, vars uppgift är att utföra beräkningar och köra program på t.ex. mobiler eller datorer.
