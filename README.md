@@ -11,7 +11,7 @@ Ett sådant projekt kan exempelvis vara en sensor av något slag (temperatur, lj
 
 ## Exempelkod
 Här är ett exempel på hur en kod kan skrivas för att tända en LED lampa en sekund och stänga av en sekund, upprepningsvis:
-```
+```cpp
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
